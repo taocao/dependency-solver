@@ -1,6 +1,8 @@
 # Dependency Solver
 
 A Python tool for solving and visualizing project/tasks dependencies.
+<img width="1501" alt="pds" src="https://github.com/user-attachments/assets/f76c8fb5-d982-4105-84c4-764201b07ce3">
+<img width="1455" alt="Dependency_Graph" src="https://github.com/user-attachments/assets/e8e351ba-0552-48e4-a67f-e648d4bd54af">
 
 ## Features
 
@@ -10,6 +12,8 @@ A Python tool for solving and visualizing project/tasks dependencies.
 - Circular dependency detection
 
 ## Project Structure
+
+```bash
 .
 ├── Makefile
 ├── README.md
@@ -24,6 +28,7 @@ A Python tool for solving and visualizing project/tasks dependencies.
 │   ├── test_ui.py
 │   └── test_visualization.py
 └── tox.ini
+```
 
 ## Installation
 
