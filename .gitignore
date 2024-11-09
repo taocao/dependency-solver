@@ -1,0 +1,16 @@
+# Byte-compiled files
+**/__pycache__/
+*.pyc
+
+# Poetry-specific
+poetry.lock
+
+# Tox environments
+.tox/
+
+# Pytest cache
+.pytest_cache/
+
+# Virtual environments (if any)
+venv/
+.env
